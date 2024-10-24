@@ -1,0 +1,5 @@
+.container{
+    color: blue;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
