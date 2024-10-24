@@ -1,0 +1,24 @@
+.blokje1{
+    background: blue;
+    width: 200px;
+    height: 200px;
+}
+.blokje2{
+    background: black;
+    width: 200px;
+    height: 200px;
+}
+.blokje3{
+    background: red;
+    width: 200px;
+    height: 200px;
+}
+.blokje4{
+    background: green;
+    width: 200px;
+    height: 200px;
+}
+.container{
+    flex-direction: row-reverse;
+    align-content: space-evenly;
+}
