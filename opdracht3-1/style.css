@@ -7,7 +7,12 @@ html {
   font-size: 62.5%;
 }
 body {
-  font-family: "Goldman", cursive;
+  font-family: "Goldman" ;
+  background-image: url("img/background.jpeg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  color: white;
+  
 }
 
 nav {
@@ -36,4 +41,48 @@ nav a {
 }
 nav img {
   width: 5vw;
+}
+h1{
+  font-weight: bold;
+   font-size: 25px;
+}
+.javahead{
+  font-weight: bold;
+}
+.background{
+  height: 70px;
+  width: 10px
+  
+}
+body{
+  background-image: url("img/background.jpeg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: #00a8c7;
+  color: white;
+  height: 70px;
+  width: 100%;
+  position: absolute;
+  font-size: 500%;
+  bottom: 0;
+
+}
+
+head{ 
+  font-size: 100px;
+}
+h2{
+  font-size: 25px;
+}
+.contact{
+background-color: black;
+  background-image: none;
+}
+.phphead{
+  font-weight: bold;
+  
 }
